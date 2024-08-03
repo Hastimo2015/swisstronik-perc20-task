@@ -14,8 +14,8 @@ Ensure you have the following installed:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/dante4rt/swisstronik-perc-20.git
-    cd swisstronik-perc-20
+    git clone https://github.com/Hastimo2015/swisstronik-perc20-task.git
+    cd swisstronik-perc20-task
     ```
 
 2. Make the `perc20.sh` script executable:
